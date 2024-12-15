@@ -27,11 +27,11 @@ The **Quiz Game** is a Python-based console application designed for teenagers a
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Quiz-Game.git
+   git clone https://github.com/PoojaAnbalagan/Quiz_Game.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Quiz-Game
+   cd Quiz_Game
    ```
 3. Install required dependencies:
    ```bash
