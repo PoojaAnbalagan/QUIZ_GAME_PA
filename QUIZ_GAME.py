@@ -142,7 +142,7 @@ while (True):
 
 
 
-            Answer_list=["Albert Einstein","J.K.Rowling","Leonardo Da Vinci","Argentina","Elon Musk","Robert Downey Jr","Burj Khalifa","Mars","Instagram","Nile","Mark Zurckerburg","John Green","Duck","Neptune","Pacific","Daniel Ek","James Horner","Avengers Endgame","206","Blue Whale","Kilimanjaro","Brazil","Australia","Malala Yousafzai","E","Ant","AB Negative","6","Barack Obama","Hiroshima","Horse","Tortoise","Snapchat","BMW","Volkswagen","Mahatma Gandhi","Sherlock Holmes","Ram Nath Kovind", "West Indies","Nepal","Skin","Vatican","8","Bethlehem","Holi","New Zealand","Harry Potter","Lionel Messi","Indira Gandhi","England"]
+            Answer_list=["Albert Einstein","J.K.Rowling","Leonardo Da Vinci","Argentina","Elon Musk","Robert Downey Jr","Burj Khalifa","Mars","Instagram","Nile","Mark Zuckerburg","John Green","Duck","Neptune","Pacific","Daniel Ek","James Horner","Avengers Endgame","206","Blue Whale","Kilimanjaro","Brazil","Australia","Malala Yousafzai","E","Ant","AB Negative","6","Barack Obama","Hiroshima","Horse","Tortoise","Snapchat","BMW","Volkswagen","Mahatma Gandhi","Sherlock Holmes","Ram Nath Kovind", "West Indies","Nepal","Skin","Vatican","8","Bethlehem","Holi","New Zealand","Harry Potter","Lionel Messi","Indira Gandhi","England"]
 
             # choose a question randomly.    
             ran_question=random.choice(question_list)
